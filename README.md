@@ -1,0 +1,1 @@
+Halo ini adalah sebuah pembelajaran pertama saya untuk git
